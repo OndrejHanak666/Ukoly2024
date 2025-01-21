@@ -31,7 +31,6 @@ class Matice:
             
             
         
-
     def __mul__(self, other: Union[Matice, int]) -> Matice:
         """Vynásobí aktuální matici maticí nebo skalárem."""
         # Implementace násobení matic
